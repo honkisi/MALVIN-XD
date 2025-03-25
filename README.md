@@ -53,7 +53,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   <a href="https://github.com/kingmalvn/MALVIN-XD/fork"><img title="MALVIN-XD" src="https://img.shields.io/badge/FORK-MALVIN XD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
-
+MALVIN-XD~B8hGSI4R#O_lLJrYboSN2KbGa44mO1EHQkDjVJiMSbZUKONW_JD4
 
 
 <p align="left">  
